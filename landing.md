@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Bucket List
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'An ever-growing list of experiences I want to have 😍'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

@@ -2,7 +2,7 @@
 title: Alfonso Cabrera
 subtitle: TBD
 email: youremailaddress@gmail.com
-description:  Purpose of
+# description: 
 #baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -21,7 +21,7 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/alfonsolcabrera/
 twitter_url: https://twitter.com/alfonso__c
 
 # build settings

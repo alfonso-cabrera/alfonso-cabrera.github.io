@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: About Me
+description: Nobody cares but what would a blog be without an About Me? 🙄
 nav-menu: true
 ---
 
