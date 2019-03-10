@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Etiam
-description: Feugiat amet tempus
-image: assets/images/pic06.jpg
+title: How I learned to ride a motorcycle 🏍
+#description: It was glorious
+image: assets/images/moto.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
