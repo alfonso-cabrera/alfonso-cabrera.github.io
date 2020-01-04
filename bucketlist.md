@@ -2,15 +2,26 @@
 title: Bucket List
 layout: post
 description: 'An ever-growing list of experiences I want to have 😍'
-# image: assets/images/pic07.jpg
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
+<h3>Food</h3>
+
 ✅ <a href="2019/03/09/motorcycle.html">Learn how to ride a motorcycle</a> <br>
 ❌ Eat at Alinea <br>
-❌ Eat a tasting menu at a Dave Chang restaurant <br>
+✅ Eat at Momofuku <br>
+
+<h3>Travel</h3>
+
 ❌ Visit Rome <br>
-❌ Visit Iceland
+❌ Visit Japan <br>
+
+<h3>Experiences</h3>
+
+✅ Disney World during Christmas season <br>
+✅ Epcot wine & food festival <br>
+
 
 <!-- Two -->
 <!-- <section id="two" class="spotlights">

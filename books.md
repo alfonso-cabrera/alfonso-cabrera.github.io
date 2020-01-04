@@ -2,10 +2,14 @@
 layout: post
 title: Book List
 description: I ❤️ reading
-#image: assets/images/pic11.jpg
+image: assets/images/lib.jpeg
 nav-menu: true
 ---
 
-<b> Books I've Read </b>
+<h3>2019</h3>
 
-<a href="https://futobuta.com/" class="button">Futo Buta</a> - Authentic Japanese Ramen in Charlotte, NC. Best Ramen I've ever had. ⭐️⭐️⭐️⭐️⭐️
+<strong>Digital Minimalism</strong> My Rating: ⭐️⭐️⭐️⭐️
+
+This was an excellent book!
+
+<strong>The Making of a Manager</strong> My Rating: ⭐️⭐️⭐️⭐️
